@@ -45,5 +45,5 @@ An Informatics and Computer Science student at Strathmore University. I am very 
 - 📧 **Direct Contact:** Arthur.Asava@strathmore.edu
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:10b981,100:34d399&height=100&section=footer" />
 </p>
