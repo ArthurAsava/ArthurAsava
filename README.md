@@ -4,7 +4,7 @@
 
 # Hi there, I'm Arthur Asava 👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+An Informatics and Computer Science student at Strathmore University. I am very interested in web development, Cybersecurity and Artificial Intelligence. I am passionate about Software Engineering and learning about how to use its principles to apply my technical skills to solve real world problems. Along with technical skills, I am a social individual that aspires to interact with diverse people to gain experience regarding to interacting and working with different people from diverse backgrounds. I am very adaptive, and I can adjust to different environments with ease.
 
 - 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
 - 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
